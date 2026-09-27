@@ -1,0 +1,4 @@
+test_case,search_term,expect_results
+search_dress,Dress,yes
+search_tshirt,T-Shirt,yes
+search_nonexistent,zzznotarealproductzzz,no

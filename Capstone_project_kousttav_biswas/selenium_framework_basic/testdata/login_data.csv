@@ -1,0 +1,4 @@
+test_case,email,password,expected_result
+valid_login,kousttavb@gmail.com,biswas1234,success
+invalid_password,kousttavb@gmail.com,biswas12345,failure
+invalid_email,not_a_real_user@example.com,SomePassword123,failure
